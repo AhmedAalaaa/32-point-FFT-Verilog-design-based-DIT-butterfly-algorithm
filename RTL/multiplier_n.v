@@ -63,7 +63,7 @@ module multiplier #
 		end
 		else begin
 			// (-ve, -ve) case
-			// 2's compelemnt will be taken for the first
+			// 2's compelemnt will be taken for the first and the second
 			// the output will be ready in the next cycle
 			// the result will be positive and not need to take
 			// 2's compelemnt for the result
