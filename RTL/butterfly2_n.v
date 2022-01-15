@@ -37,7 +37,6 @@ module butterfly2 #
 	wire		[N-1:0]		out6_m_neg;
 	wire		[N-1:0]		out7_m_neg;
 
-	
 	// First eq multipliers
 	multiplier # (.N(N), .Q(Q)) M1
 	(
