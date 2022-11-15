@@ -57,7 +57,7 @@ This design was Synthesized and implemented for Xilinx Virtex-7 FPGA VC709 Conne
 ![image](https://user-images.githubusercontent.com/64384499/127680873-48d747bf-3220-43a9-b433-30f36e421f3b.png)
 
 ## Timing Constrains
-![image](https://user-images.githubusercontent.com/64384499/127680892-4cabeb34-1972-4284-9093-c01c670ced7f.png)
+![timing](https://user-images.githubusercontent.com/64384499/202013600-95a228ad-f6d0-4d70-9927-cd888b40558e.png)
 ![image](https://user-images.githubusercontent.com/64384499/127680899-94525440-b824-48f9-aa1f-674af49a751d.png)
 
 ## Critical path
