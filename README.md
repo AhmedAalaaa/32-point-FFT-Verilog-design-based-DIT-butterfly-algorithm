@@ -53,8 +53,8 @@ Cooley -Tukey DIT-FFT Algorithm was implement using MATLAB to compare the result
 # Synthesis and Implementation
 This design was Synthesized and implemented for Xilinx Zynq UltraScale+ (xazu3eg-sfva625-1-i) FPGA, and all the following results are met.
 ## Utilization report
-![image](https://user-images.githubusercontent.com/64384499/127680863-10dd4b04-31b0-4701-8860-6d23170c49dc.png)
-![image](https://user-images.githubusercontent.com/64384499/127680873-48d747bf-3220-43a9-b433-30f36e421f3b.png)
+![image](https://user-images.githubusercontent.com/64384499/208193911-b6e81ce1-28aa-475a-b1bc-fb539dbc91cf.png)
+![image](https://user-images.githubusercontent.com/64384499/208193967-22154916-194f-400d-9408-a8557bb17c9d.png)
 
 ## Timing Constrains
 ![timing](https://user-images.githubusercontent.com/64384499/202013600-95a228ad-f6d0-4d70-9927-cd888b40558e.png)
