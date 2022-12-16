@@ -57,15 +57,15 @@ This design was Synthesized and implemented for Xilinx Zynq UltraScale+ (xazu3eg
 ![image](https://user-images.githubusercontent.com/64384499/208193967-22154916-194f-400d-9408-a8557bb17c9d.png)
 
 ## Timing Constrains
-![timing](https://user-images.githubusercontent.com/64384499/202013600-95a228ad-f6d0-4d70-9927-cd888b40558e.png)
+![image](https://user-images.githubusercontent.com/64384499/208194895-eab627a5-3512-413a-a6b2-4ae6f6216bcf.png)
 ![image](https://user-images.githubusercontent.com/64384499/127680899-94525440-b824-48f9-aa1f-674af49a751d.png)
 
 ## Critical path
-![image](https://user-images.githubusercontent.com/64384499/127681120-eb154b1d-2c73-4963-93c5-36140c50a766.png)
-![image](https://user-images.githubusercontent.com/64384499/127680926-659510c0-c87b-4d12-8861-dedbca851270.png)
+![image](https://user-images.githubusercontent.com/64384499/208195036-0dca7eed-b454-4c53-aa5d-0ebe710d7985.png)
+![image](https://user-images.githubusercontent.com/64384499/208195094-481461fa-c4a5-4f19-a520-b79b8baa4889.png)
 
 ## Power Report
-![image](https://user-images.githubusercontent.com/64384499/127680942-a19ee08e-bd7e-459f-bc56-f39e048ed586.png)
+![image](https://user-images.githubusercontent.com/64384499/208195138-397bd484-f22c-4c69-a380-898be85644a6.png)
 
 
 
