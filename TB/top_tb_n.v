@@ -2,7 +2,7 @@
 
 module top_tb;
 	parameter N = 16;
-	parameter Q = 0;
+	parameter Q = 8;
 	
 	reg 				rst;
 	//reg					clk;
@@ -213,7 +213,7 @@ top # (.N(N), .Q(Q)) top1
   reg [N-1:0] in_ram [0:31];
 	initial
 	begin
-	$readmemb("C:/in_ram.txt", in_ram);
+	$readmemb("D:/workset/proj/32-point-FFT-Verilog-design-based-DIT-butterfly-algorithm/TB/in_ram.txt", in_ram);
 	end
     initial begin
 		in0_r = in_ram[0];
