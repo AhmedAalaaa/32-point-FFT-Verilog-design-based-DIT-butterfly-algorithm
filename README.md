@@ -51,7 +51,7 @@ Cooley -Tukey DIT-FFT Algorithm was implement using MATLAB to compare the result
 ![image](https://user-images.githubusercontent.com/64384499/127680364-c0d53497-367e-40db-a33d-45af98e954bb.png)
 
 # Synthesis and Implementation
-This design was Synthesized and implemented for Xilinx Virtex-7 FPGA VC709 Connectivity Kit, and all the following results are met.
+This design was Synthesized and implemented for Xilinx Zynq UltraScale+ (xazu3eg-sfva625-1-i) FPGA, and all the following results are met.
 ## Utilization report
 ![image](https://user-images.githubusercontent.com/64384499/127680863-10dd4b04-31b0-4701-8860-6d23170c49dc.png)
 ![image](https://user-images.githubusercontent.com/64384499/127680873-48d747bf-3220-43a9-b433-30f36e421f3b.png)
