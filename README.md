@@ -15,7 +15,13 @@ FFT algorithms are based on the concept of divide and conquer approach. The FFT 
 In this project it was implemented the FFT for a 32-points sequence with the help of Decimation In Time algorithm with radix-2.
 
 # Butterfly diagram
-![image](https://user-images.githubusercontent.com/64384499/127676203-d51eab76-11e9-4a71-af22-0a580097acea.png)
+The diagram below is generated from [`docs/generate_butterfly.py`](docs/generate_butterfly.py) — re-run that script to regenerate the SVG.
+
+![32-point radix-2 DIT FFT butterfly diagram](docs/butterfly_32pt_dit.svg)
+
+Inputs on the left are in **bit-reversed order**:
+`0, 16, 8, 24, 4, 20, 12, 28, 2, 18, 10, 26, 6, 22, 14, 30, 1, 17, 9, 25, 5, 21, 13, 29, 3, 19, 11, 27, 7, 23, 15, 31`.
+Outputs on the right are in natural order `X[0]…X[31]`. Each butterfly is labelled with its twiddle `W_M^k`.
 
 # Design Approach
 Here is more details on the modules that used in the design.
